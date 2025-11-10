@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//Have nice day
 public class AudioManager : MonoBehaviour
 {
     public static AudioManager instance;
