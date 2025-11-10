@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 The is first my code script
+Hello world!
+=======
+The is first my code script. This is Elijah!
+>>>>>>> 5b0c7ad21c8a6f496c2cf3501b0886ecb1536b11
